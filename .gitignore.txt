@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# PDF and CSV outputs
+*.pdf
+
+# Streamlit cache
+.streamlit/
+
+# VSCode and IDE folders
+.vscode/
+.idea/
